@@ -2,3 +2,5 @@
 venv/
 env/
 .venv/
+#ignorons la base de données par défaut
+db.sqlite3
