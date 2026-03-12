@@ -32,7 +32,7 @@ This project is part of my **DevOps learning journey**.
 # 🧰 Tech Stack
 
 - **Django**
-- **Docker**
+- **Dockerfile**
 - **Docker Compose**
 - **PostgreSQL**
 - **Nginx**
