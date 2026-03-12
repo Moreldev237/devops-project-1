@@ -41,3 +41,13 @@ This project is part of my **DevOps learning journey**.
 
 
 # 🏗 Project Architecture
+Client (navigateur)
+        │
+        ▼
+     Nginx
+        │
+        ▼
+   Gunicorn / Django
+        │
+        ▼
+   PostgreSQL
