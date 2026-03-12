@@ -1,5 +1,5 @@
 """
-URL configuration for django_hello_world project.
+URL configuration for django_hello_wolrd project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/6.0/topics/http/urls/
