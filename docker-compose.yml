@@ -15,9 +15,9 @@ services:
   web:
     build: .
     container_name: hello_world_web
-    command: gunicorn django_hello_wolrd.wsgi:application --bind 0.0.0.0:8000
+    command: gunicorn django_hello_world.wsgi:application --bind 0.0.0.0:8000
     volumes:
-      - ./app:/app
+      - .:/app
     depends_on:
       - db
 

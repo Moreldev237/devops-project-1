@@ -23,11 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-6k2aa&vqg*9g_w6uf61=i344jk$!lqgl01_-m&pxpe%&wnw4&n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
-
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'mon-domaine.com']
-
-
+DEBUG = True
+ALLOWED_HOSTS = ['*']  
 # Application definition
 
 INSTALLED_APPS = [
@@ -51,7 +48,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'django_hello_wolrd.urls'
+
 
 TEMPLATES = [
     {
@@ -68,7 +65,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'django_hello_wolrd.wsgi.application'
+ROOT_URLCONF = 'django_hello_world.urls'
+WSGI_APPLICATION = 'django_hello_world.wsgi.application'
 
 
 # Database
@@ -80,8 +78,8 @@ DATABASES = {
         'NAME': 'hello_world_db',
         'USER': 'hello_user',
         'PASSWORD': 'motdepasse123',
-        'HOST': 'localhost',
-        'PORT': '5433',
+        'HOST': 'hello_world_db',  
+        'PORT': '5432',            
     }
 }
 

@@ -22,11 +22,11 @@ COPY requirements.txt .
 # Installer les dépendances Python
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copier le code Django
-COPY ./django_hello_wolrd /app
+# Copier le code de l'application
+COPY . .
 
 # Exposer le port utilisé par Gunicorn
 EXPOSE 8000
 
 # Commande de lancement
-CMD ["gunicorn", "--bind", "0.0.0.0:8000", "django_hello_wolrd.wsgi:application"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "django_hello_world.wsgi:application"]
