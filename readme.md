@@ -1,14 +1,20 @@
 # 🚀 Django DevOps Starter Project
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=MORELDEV237" alt="MORELDEV237 Logo" width="200"/>
-</p>
 
 <p align="center">
 <b>DevOps Project by MORELDEV237</b><br>
 Docker • CI/CD • Django • Nginx • PostgreSQL
 </p>
 
+
+⚡ Where to find me
+
+[![Moreldev237](https://img.shields.io/badge/Moreldev237-red.svg)](https://github.com/Moreldev237)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/morel-nkonga-5617a32a8/)
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/+237686865451)
 
 # 📌 Project Overview
 
