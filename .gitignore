@@ -1,2 +1,4 @@
 #ignorons l'environnement virtuel
 venv/
+env/
+.venv/
