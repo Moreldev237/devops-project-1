@@ -37,17 +37,12 @@ This project is part of my **DevOps learning journey**.
 - **PostgreSQL**
 - **Nginx**
 
+### Telecharger l'image 
+```bash
+docker push moreldev237/devops-project-1_web:latest
+```
 
-
-
-# 🏗 Project Architecture
-Client (navigateur)
-        │
-        ▼
-     Nginx
-        │
-        ▼
-   Gunicorn / Django
-        │
-        ▼
-   PostgreSQL
+### Lancer l'application
+```bash
+docker run -p 8000:8000 moreldev237/devops-project-1_web:latest
+```
