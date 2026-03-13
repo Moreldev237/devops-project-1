@@ -36,7 +36,7 @@ This project is part of my **DevOps learning journey**.
 - **Docker Compose**
 - **PostgreSQL**
 - **Nginx**
-- **GitHub Actions (CI/CD)**
+
 
 
 
