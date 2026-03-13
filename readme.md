@@ -6,6 +6,9 @@
 Docker • CI/CD • Django • Nginx • PostgreSQL
 </p>
 
+## Architecture DevOps
+
+![Diagramme DevOps Django Docker Nginx PostgreSQL](images/devops_architecture.png)
 
 ⚡ Where to find me
 

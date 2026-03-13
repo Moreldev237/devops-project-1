@@ -4,3 +4,6 @@ env/
 .venv/
 #ignorons la base de données par défaut
 db.sqlite3
+
+#ignorons les fichiers diagramme générés
+diagram.py
