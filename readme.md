@@ -1,9 +1,17 @@
-# 🚀 Django DevOps Starter Project
+# DevOps Project 2
+**Objectif** : Automatiser le build, les tests et le déploiement d’une app.
 
+### Challenges :
+
+-Configurer Dockerfile et Docker Compose.
+
+-Créer un workflow CI/CD avec tests automatisés.
+
+-Déployer sur un serveur local ou cloud (Heroku, AWS EC2).
 
 <p align="center">
 <b>DevOps Project by MORELDEV237</b><br>
-Docker • CI/CD • Django • Nginx • PostgreSQL
+Docker • CI/CD • Django • Nginx • PostgreSQL • CI/CD(GithubACTION)
 </p>
 
 ## Architecture DevOps
@@ -27,7 +35,7 @@ The goal of this project is to practice and showcase essential DevOps skills:
 - Continuous Integration / Continuous Deployment (**CI/CD**)
 - Reverse proxy configuration with **Nginx**
 - Production-ready Django deployment
-- Cloud deployment ready
+- Cloud deployment ready or vps
 
 This project is part of my **DevOps learning journey**.
 
@@ -39,6 +47,7 @@ This project is part of my **DevOps learning journey**.
 - **Docker Compose**
 - **PostgreSQL**
 - **Nginx**
+- **CI/CD--> avec GITHUB-ACTION**
 
 ### Telecharger l'image 
 ```bash
