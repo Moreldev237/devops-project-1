@@ -7,3 +7,6 @@ db.sqlite3
 
 #ignorons les fichiers diagramme générés
 diagram.py
+
+#ignorons les staticfiles générés
+staticfiles/
