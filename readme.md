@@ -49,3 +49,8 @@ docker push moreldev237/devops-project-1_web:latest
 ```bash
 docker run -p 8000:8000 moreldev237/devops-project-1_web:latest
 ```
+
+### URL par defaut pour voir le projet apres avoir lancer
+```bash
+http://0.0.0.0:8000/hello/
+```
