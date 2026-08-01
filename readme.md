@@ -1,5 +1,4 @@
-# DevOps Project 2
-**Objectif** : Automatiser le build, les tests et le déploiement d’une app.
+#  Django DevOps Starter Project
 
 ### Challenges :
 
@@ -40,7 +39,7 @@ The goal of this project is to practice and showcase essential DevOps skills:
 This project is part of my **DevOps learning journey**.
 
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 - **Django**
 - **Dockerfile**
