@@ -1,4 +1,4 @@
-# 🚀 Django DevOps Starter Project
+#  Django DevOps Starter Project
 
 
 <p align="center">
@@ -32,7 +32,7 @@ The goal of this project is to practice and showcase essential DevOps skills:
 This project is part of my **DevOps learning journey**.
 
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 - **Django**
 - **Dockerfile**
